@@ -6,6 +6,8 @@
 </head>
 
 <body>
- <?php echo '<p>Hello World</p>'; ?> 
+ <?php echo '<p>Hello World</p>';
+ echo '<p>Hello World123</p>';
+ echo '<p>Hello World456</p>';?> 
  </body>
 </html>	
